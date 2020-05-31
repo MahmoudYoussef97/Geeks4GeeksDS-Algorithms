@@ -22,7 +22,7 @@ int main() {
         for(int i=0;i<arrSize-1;++i)
             for(int j=i+1;j<arrSize;++j)
                 if(freq[arr[i]+arr[j]] == 1)
-                    numberOfTriplets++;
+                    cout << arr[i] << endl;
 
         if(numberOfTriplets > 0)
             cout << numberOfTriplets << endl;
