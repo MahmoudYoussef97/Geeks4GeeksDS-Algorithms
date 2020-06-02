@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591117677 source:d:\geeks4geeks\merge without extra space\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
